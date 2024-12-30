@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-far-away-travel/static/css/main.10a2aefb.css",
+    "main.js": "/react-far-away-travel/static/js/main.0ad3e844.js",
+    "index.html": "/react-far-away-travel/index.html",
+    "main.10a2aefb.css.map": "/react-far-away-travel/static/css/main.10a2aefb.css.map",
+    "main.0ad3e844.js.map": "/react-far-away-travel/static/js/main.0ad3e844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a2aefb.css",
+    "static/js/main.0ad3e844.js"
+  ]
+}
